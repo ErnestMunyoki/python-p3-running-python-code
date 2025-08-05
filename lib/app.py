@@ -1,1 +1,1 @@
-print("Hello world!cd ")
+print("Hello world!")
